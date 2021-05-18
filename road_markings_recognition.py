@@ -571,4 +571,3 @@ def get_road_markings(test_img):
     print(final_answer)
     return final_answer
 
-
